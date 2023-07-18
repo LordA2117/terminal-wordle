@@ -1,9 +1,7 @@
 from termcolor import colored
 import requests
 import os
-from time import sleep
 import random
-from pprint import pprint
 
 
 def getLetterColors(word, original_word):
